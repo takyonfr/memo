@@ -2,13 +2,13 @@
 
 ## Savoir quelle appli utilise un port
 
-''netstat -pnlt | grep ":5900" ''
+`netstat -pnlt | grep ":5900"`
 
-''netstat -plntu''
+`netstat -plntu`
 
 ## tester un port ouvert
 
-''nc -v -w2 smtp.gmail.com 465''
+`nc -v -w2 smtp.gmail.com 465`
 
 ## SSH double authentification
 
@@ -16,7 +16,7 @@ https://korben.info/activer-lauthentification-2-etapes-serve=ur-ssh.html
 
 ## Shutdown
 
-shutdown -r now
+`shutdown -r now`
 
 ## NGINX SSL
 
