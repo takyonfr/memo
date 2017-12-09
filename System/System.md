@@ -1,5 +1,9 @@
 # Système
 
+## Permission
+
+`usermod -a -G {group} {user}`
+
 ## Savoir quelle appli utilise un port
 
 `netstat -pnlt | grep ":5900"`
