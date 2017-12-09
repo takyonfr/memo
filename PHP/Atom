@@ -1,0 +1,11 @@
+# Atom
+## File handler with firefox and wdebug
+
+`about:config` ajouter un boolean network.protocol-handler.expose.atm
+
+- crée un script sh avec le contenu :
+
+```
+#! /bin/sh
+f=`echo $1 | cut -d @ -f 1 | sed 's/atm:\/\/\/var\/www'` l=`echo $1 | cut -d @ -f 2` atom -a “$HOME/workspace/engie_migr/$f:$l” 
+```
