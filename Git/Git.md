@@ -26,7 +26,7 @@ Auto rebase with pull
 
 ## Git flow
 
-{{:git:git-flow-commands.png?400|}}
+![Git flow](https://github.com/imagince/memo/blob/master/Git/git-flow-commands.png)
 
 ## Oneflow
 
