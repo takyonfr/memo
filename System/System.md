@@ -6,6 +6,8 @@
 
 ## Savoir quelle appli utilise un port
 
+if needed `sudo apt-get install net-tools`
+
 `netstat -pnlt | grep ":5900"`
 
 `netstat -plntu`
