@@ -31,3 +31,7 @@ Auto rebase with pull
 ## Oneflow
 
 http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow
+
+## Model
+
+http://nvie.com/posts/a-successful-git-branching-model/
