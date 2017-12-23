@@ -26,3 +26,7 @@ http://www.webupd8.org/2014/01/how-to-fix-non-bootable-ubuntu-system.html
 ## Virtualbox
 
 `sudo usermod -a -G vboxsf user`
+
+## Accidentally deleted folder
+
+http://askubuntu.com/questions/150671/accidentally-deleted-a-folder
